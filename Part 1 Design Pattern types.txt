@@ -1,0 +1,13 @@
+Question 1 - State
+Question 2 - Composite
+Question 3 - proxy
+Question 4 - Prototype
+Question 5 - Chain of Responsibilety
+Question 6 - Visitor
+Question 7 - Mediator
+Question 8 - Builder
+Question 9 - Abstract Factory
+Question 10 - Decorator
+Question 11 - Memento
+Question 12 - Factory
+Question 13 - Adapter

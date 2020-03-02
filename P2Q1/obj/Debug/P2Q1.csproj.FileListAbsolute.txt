@@ -1,0 +1,6 @@
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\bin\Debug\P2Q1.exe.config
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\bin\Debug\P2Q1.exe
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\bin\Debug\P2Q1.pdb
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\obj\Debug\P2Q1.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\obj\Debug\P2Q1.exe
+C:\Users\mike\source\repos\DesignPatternTest\P2Q1\obj\Debug\P2Q1.pdb
